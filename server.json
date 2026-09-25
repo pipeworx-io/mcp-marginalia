@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/marginalia",
   "title": "Marginalia",
   "description": "Marginalia MCP — independent web search over a non-commercial, non-SEO index.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/marginalia",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-marginalia",
