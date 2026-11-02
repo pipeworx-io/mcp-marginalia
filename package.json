@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-marginalia",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Marginalia MCP — independent web search over a non-commercial, non-SEO index.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "marginalia",
     "gatewaySlug": "marginalia",
-    "sourceHash": "v1-ab072733bce1a0bdc345b67b9ac5e67c22ac71b5686d572e1da581c50d2360cb",
-    "sourceCommit": "5c89d6abb778d45da5d92002eb251978622bedf9"
+    "sourceHash": "v1-6e36236424f4896d1c9a65b14179093bee7a31f77f3f0163eac79b4218c73e0c",
+    "sourceCommit": "236b0a46d91f343fe094da9f499c378e88f78312"
   }
 }
